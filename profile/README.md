@@ -1,23 +1,38 @@
-<br> 임시 소개글 수정 예정
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/71fecb65-eda9-4045-8b16-830365e781a7" alt="HearO Banner" width="600"/>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed5fe001-abc7-4786-af78-b367948183f8" width="100%" alt="banner"/>
+</p>
 
-<h2 align="center">AI 기반 청각 접근성 플랫폼, HearO (히어로) </h2>
+<h1 align="center">AI 기반 청각 접근성 플랫폼, HearO (히어로) </h1>
 
 **HearO(히어로)**는 청각장애인과 비장애인의 소통 격차를 해소하기 위해 탄생한 **AI 기반 청각 접근성 플랫폼**입니다.  
-AI 수어 인식, 생활 소리 인식, 커뮤니티 기능을 통해 모두가 소리를 ‘보고’, 대화를 ‘이어갈 수 있는’ 세상을 만듭니다.
+AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서치 기능을 통해 모두가 소리를 '보고', 대화를 '이어갈 수 있는' 세상을 만듭니다.
 
 <br>
 
-## ✔️ 로고 의미
-<div>
- <img width="59" height="60" alt="logo" src="<!-- 로고 이미지 URL -->" />
-  ‘hear(듣다)’와 ‘hero(영웅)’의 합성어로,  
-  **소리를 잇는 영웅(HearO)**이란 의미를 담고 있습니다.  
-  파란색은 신뢰와 평온, 원형은 모두를 아우르는 소통을 상징합니다.
-</div>
+## 🌱 로고 의미
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/9e9a06d4-ad56-4526-92f8-651c7eb76abb" 
+           width="120" 
+           alt="HearO logo"
+           style="border:none; outline:none;" />
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <p>
+        <b>HearO</b>는 <b>‘hear(듣다)’</b>와 <b>‘hero(영웅)’</b>의 합성어로,<br/>
+        청각장애인 분들에게 세상의 소리를 전하고, 그들의 일상 속 <b>영웅</b>이 되고자 하는 마음을 담고 있습니다.<br/><br/>
+        또한 우리의 서비스가 그분들의 <b>귀가 되어</b> 세상을 들을 수 있게 돕고,<br/>
+        나아가 HearO를 통해 스스로 성장하며 <b>그분들 자신이 영웅이 되는</b> 여정을 함께합니다.<br/><br/>
+        HearO의 파란색은 <b>신뢰와 평온</b>을,  
+        부드럽게 이어진 곡선은 <b>서로를 잇는 소통</b>을 상징합니다.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
@@ -31,11 +46,15 @@ AI 수어 인식, 생활 소리 인식, 커뮤니티 기능을 통해 모두가 
 - 초인종, 경적, 경보 등 주요 소리를 인식하여  
   시각적·진동 알림으로 사용자에게 즉시 안내  
 
-### 🔹 3. 커뮤니티
+### 🔹 3. 커뮤니티 게시판 서비스
 - 청각장애인, 수어 학습자, 일반인이 함께 참여  
 - 수어 학습 후기·팁 공유 및 소통 중심 커뮤니티 운영  
 
-### 🔹 4. 접근성 중심 UX
+### 🔹 4. 실시간 구인정보 제공
+- 실시간으로 구인 정보를 확인하여 취업 연계 서비스를 제공
+- 청각장애인의 생활 자립을 응원
+
+### 🔹 5. 접근성 중심 UX
 - 시각 알림·진동 패턴·고대비 모드 지원  
 - 사용자 맞춤형 접근성 설정 기능 제공  
 
@@ -43,9 +62,9 @@ AI 수어 인식, 생활 소리 인식, 커뮤니티 기능을 통해 모두가 
 
 ## 📱 UI
 
-| Login | Home | Sign Detail | Favorites | Community | My Page |
+| Login | Sound | Sign Detail | Favorites | Community | My Page |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="<!-- 이미지 URL 1 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 2 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 3 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 4 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 5 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 6 -->" width="360" height="864"> |
+| <img src="<!-- 이미지 URL 1 -->" width="360" height="864"> | <img width="370" height="811" alt="image" src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" /> | <img src="<!-- 이미지 URL 3 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 4 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 5 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 6 -->" width="360" height="864"> |
 
 <br>
 
