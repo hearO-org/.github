@@ -64,7 +64,7 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 
 | Login | Sound | Sign Detail | Detail | Favorites | Community |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8969485f-5800-4e36-b1a1-6cf23f238e50" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/cc63e6d7-6027-4cfc-a74f-96d3b45c4e0f" width="360" height="864"> |
+| <img src="https://github.com/user-attachments/assets/e9863914-ea67-40cf-85f2-b0964e584fbb" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8969485f-5800-4e36-b1a1-6cf23f238e50" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/cc63e6d7-6027-4cfc-a74f-96d3b45c4e0f" width="360" height="864"> |
 
 <br>
 
