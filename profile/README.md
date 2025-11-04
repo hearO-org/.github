@@ -115,10 +115,6 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
         <sub><b>권유진</b></sub>
       </a>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td align="center">
       <a href="https://github.com/leasenose">
         <img src="https://github.com/leasenose.png?size=140" width="100" height="100" alt="권유진"/>
