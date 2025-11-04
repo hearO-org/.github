@@ -36,7 +36,7 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 
 <br>
 
-## ✔️ 주요 기능
+## ✨ 주요 기능
 
 ### 🔹 1. AI 수어 사전
 - KCISA 수어 API 연동으로 단어, 영상, 설명을 제공  
@@ -68,7 +68,7 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 
 <br>
 
-## 🎯 목표
+## 🎯 개발 목적
 - 모두가 차별 없이 소통할 수 있는 **포용적 커뮤니케이션 플랫폼** 구축  
 - **AI와 공공데이터를 활용한 사회문제 해결형 서비스** 실현  
 - 청각장애인의 일상 속 불편함을 줄이고 **자립적 소통 환경 조성**
@@ -77,9 +77,9 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 
 ## 🛠️ 기술 스택
 - **Backend**: Spring Boot, JPA, MySQL  
-- **Frontend**: Android Studio 
+- **Frontend**: Android (Kotlin)
 - **Infra/DevOps**: AWS EC2, GitHub Actions, Docker  
-- **AI**: TensorFlow / TFLite 기반 수어·소리 인식 모델  
+- **AI**: 
 - **API 연동**: KCISA 수어 사전 API, 공공데이터 기반 생활 소리 정보  
 
 <br>
