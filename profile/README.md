@@ -62,9 +62,9 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 
 ## 📱 UI
 
-| Login | Sound | Sign Detail | Favorites | Community | My Page |
+| Login | Sound | Sign Detail | Detail | Favorites | Community |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="<!-- 이미지 URL 1 -->" width="360" height="864"> | <img width="370" height="811" alt="image" src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" /> | <img src="<!-- 이미지 URL 3 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 4 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 5 -->" width="360" height="864"> | <img src="<!-- 이미지 URL 6 -->" width="360" height="864"> |
+| <img src="" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="" width="360" height="864"> |
 
 <br>
 
