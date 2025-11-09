@@ -79,7 +79,7 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 - **Backend**: Spring Boot, JPA, MySQL  
 - **Frontend**: Android (Kotlin)
 - **Infra/DevOps**: AWS EC2, GitHub Actions, Docker  
-- **AI**: 
+- **AI**: PyTorch, 2DCNN, Mel-Spectrogram, UrbanSound8K(CC0/CCBY)
 - **API 연동**: KCISA 수어 사전 API, 공공데이터 기반 생활 소리 정보  
 
 <br>
