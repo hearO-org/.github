@@ -62,9 +62,9 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 
 ## 📱 UI
 
-| Login | Sound | Sign Detail | Detail | Favorites | Community |
+| 로그인 | 소리감지 | 수어사전 | 상세보기 | 구인정보 | 커뮤니티 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/e9863914-ea67-40cf-85f2-b0964e584fbb" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8969485f-5800-4e36-b1a1-6cf23f238e50" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/cc63e6d7-6027-4cfc-a74f-96d3b45c4e0f" width="360" height="864"> |
+| <img src="https://github.com/user-attachments/assets/e9863914-ea67-40cf-85f2-b0964e584fbb" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8444f65b-52d0-4d1b-ace4-a4f66e8d2667" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8969485f-5800-4e36-b1a1-6cf23f238e50" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/9e55481b-c1dd-468e-9744-c89db1e279e2" alt="job" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/954b52db-5803-419c-9b8e-f60212341a2d" alt="community" width="360" height="864"> |
 
 <br>
 
@@ -85,10 +85,15 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 <br>
 
 ## 🤖 학습 모델
+청각장애인을 위한 실시간 소리 감지 프로젝트 UrbanSound8K 데이터셋 중 상업적 사용이 가능한(CC0, CC BY) 클립만 자동 필터링하여 자동차 경적(car_horn)과 사이렌(siren) 등 주요 도시 소리를 분류합니다.
+<br>
+<img width="400" height="400" alt="AI모델 다이어그램" src="https://github.com/user-attachments/assets/4d889449-0b24-457c-ac78-53a1b6c9d658" />
+<br>
 
 
 
 ## 🧱 서버 아키텍쳐
+프로젝트 개발 후 추가 예정
 
 <br>
 
