@@ -64,7 +64,7 @@ AI 수어 인식, 생활 소리 인식, 수어 사전, 커뮤니티, 정보서�
 
 | 로그인 | 소리감지 | 수어사전 | 상세보기 | 구인정보 | 커뮤니티 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/e9863914-ea67-40cf-85f2-b0964e584fbb" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/7606bf61-b4c8-4864-9917-321d05311bd2" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8444f65b-52d0-4d1b-ace4-a4f66e8d2667" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/8969485f-5800-4e36-b1a1-6cf23f238e50" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/9e55481b-c1dd-468e-9744-c89db1e279e2" alt="job" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/954b52db-5803-419c-9b8e-f60212341a2d" alt="community" width="360" height="864"> |
+| <img src="https://github.com/user-attachments/assets/6f01277b-3b88-47d2-a283-9824418e829f" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/48c1dda7-f703-4a7c-ba7a-c35ccc9c8106" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/b4f9c59e-f4fa-4c1a-8ceb-5252470bd734" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/99da099d-99ba-414c-ba03-163a36b74521" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/9e55481b-c1dd-468e-9744-c89db1e279e2" alt="job" width="360" height="864"> | <img src="https://github.com/user-attachments/assets/954b52db-5803-419c-9b8e-f60212341a2d" alt="community" width="360" height="864"> |
 
 <br>
 
